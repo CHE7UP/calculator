@@ -1,0 +1,9 @@
+{
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "react": ""
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true
+}
